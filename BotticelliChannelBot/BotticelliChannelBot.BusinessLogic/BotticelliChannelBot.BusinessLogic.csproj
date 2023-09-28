@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\botticelli\Botticelli.Framework\Botticelli.Framework.csproj" />
+    <PackageReference Include="Botticelli.Framework" Version="0.2.0" />
   </ItemGroup>
-
 </Project>
