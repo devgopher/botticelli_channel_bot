@@ -1,4 +1,0 @@
-[submodule "botticelli"]
-	path = botticelli
-	url = https://github.com/devgopher/botticelli.git
-	branch = mvp/0.1
